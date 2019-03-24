@@ -1,2 +1,2 @@
 # Predicting-future-Sales
-Assignment -01
+This is project undertaken to forecast future sales in retail domain
